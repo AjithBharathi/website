@@ -2,4 +2,4 @@
 
 In this Repo i added my own website about my carrier, experience, education etc..
 
-[Link](https://ajithbharathi.github.io/mywebsite/) 
+[Link](https://ajithbharathi.github.io/website/) 
